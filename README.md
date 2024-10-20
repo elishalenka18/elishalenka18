@@ -3,7 +3,7 @@
 <h3 align="center">Automating Processes & Uncovering Insights with Data</h3>
 <img align="right" alt="coding" width="400" src="https://cdni.iconscout.com/illustration/premium/thumb/woman-working-on-data-analysis-illustration-download-in-svg-png-gif-file-formats--analytics-logo-female-analyst-doing-people-activity-pack-business-illustrations-4525621.png?f=webp"></img>
 
-- 🔭 I’m currently working on **developing an interactive Power BI dashboard to analyze data and extract valuable insights**
+- 🔭 I’m currently working on **developing an interactive Power BI dashboard to analyze data and extract valuable insights.**
 
 - 🌱 I’m currently learning **advanced data analysis, Python programming, and refining my skills in Power BI and SQL to enhance my expertise in data-driven decision-making.**
 
